@@ -1,9 +1,14 @@
 #full
 {
     height: 100vh;
-    width:auto;
-    background-image: url('C:\Users\Asus\Desktop\IctAcademy\projectexample\public\welcomebg.png');
+    width: 100vw;
+    background-image: url('C:\Users\Asus\Desktop\My Portfolio\projectexample\public\welcomebg.png');
+    background-size: cover;
     position: relative;
+    background-repeat: no-repeat;
+    
+
+    
 }
 
 #image
@@ -24,7 +29,7 @@ img
     border-radius: 50%;
 }
 h1{
-    color: rgb(255, 255, 255);
+    color: rgb(19, 11, 86);
     transition: color 0.3s, box-shadow 0.3s; /* Smooth transition */
     box-shadow: none;
     
@@ -32,7 +37,7 @@ h1{
 }
 
 h1:hover {
-    color: rgb(0, 0, 0); /* Color on hover */
+    color: rgb(118, 115, 115); /* Color on hover */
     box-shadow: 0 4px 8px rgba(120, 120, 120, 0.2); /* Add shadow on hover */
   }
 

@@ -31,7 +31,7 @@ const Wel = () => {
     
           <div className="container-fluid" id="full">
       <div className="d-flex justify-content-center align-items-center" id="image">
-        <img src="Anumitha.png" />
+        <img src="Anumitha .png" />
 
       </div>
 

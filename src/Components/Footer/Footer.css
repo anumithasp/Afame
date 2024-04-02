@@ -1,7 +1,14 @@
 .footer {
+  
     background-color: #02112184; /* Change the background color as needed */
     padding: 20px 0; /* Add padding to the top and bottom */
     position: relative; /* Position the footer at the bottom */
-    width: 100%; /* Make the footer span the entire width */
-    bottom: 0; /* Align the footer to the bottom of the viewport */
+    width: 100vw; /* Make the footer span the entire width */
+  
+   
+    background-attachment: fixed;
+    background-size: contain;/* Align the footer to the bottom of the viewport */
   }
+
+
+    
