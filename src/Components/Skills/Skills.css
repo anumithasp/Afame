@@ -1,0 +1,32 @@
+#skill
+{
+    height: 100vh;
+    width: auto;
+}
+
+#colm1,#colm2,#colm3
+{
+    border-radius: 15px;
+    box-shadow: 5px, 5px, 5px, 0.9px;
+   border: 1px solid rgb(166, 166, 166);
+    background-color: rgb(255, 255, 255);
+}
+
+#skill .row {
+    display: flex;
+    justify-content: space-between;
+  }
+  #skill .col {
+    flex: 0 0 30%; /* Adjust column width as needed */
+  }
+
+  #colm1 {
+    margin-right: 10px; /* Adjust margin for the first column */
+  }
+  
+  #colm2 {
+    margin-left: 10px; /* Adjust margin for the second column */
+  }
+  #colm3 {
+    margin-left: 10px; /* Adjust margin for the second column */
+  }

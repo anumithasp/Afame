@@ -1,0 +1,28 @@
+#aboutsec
+{
+    height: 100%;
+    width: auto;
+    
+}
+
+#image1
+{
+    box-shadow: 0 0 10px rgba(0.9, 0.9, 0.9, 0.9);
+    border-radius: 15%;
+}
+
+.aboutme
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color:rgb(2, 6, 59);
+}
+
+#hey
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(2, 6, 59);
+
+}
+
+

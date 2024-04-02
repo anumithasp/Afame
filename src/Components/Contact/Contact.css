@@ -1,0 +1,25 @@
+#contactsec
+{
+    height: 100vh;
+    width: auto;
+}
+
+#writeme
+{
+    text-decoration: none;
+    color: rgb(218, 218, 218);
+}
+
+#colgm,#colwat,#colink
+{
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(191, 185, 185, 0.1);
+    background-color: rgb(255, 255, 255);
+
+}
+
+#btn
+{
+    background-color: black;
+    color: antiquewhite;
+}

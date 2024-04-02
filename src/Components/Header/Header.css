@@ -1,0 +1,19 @@
+nav {
+       font-size: large;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       
+}
+
+body{
+       background-color: rgb(245, 242, 242);
+}
+#item1, #item2, #item3, #item4
+{
+       color: rgb(19, 11, 86);
+       font-weight: bold;
+
+}
+
+
+
+

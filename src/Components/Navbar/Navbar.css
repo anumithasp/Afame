@@ -1,0 +1,20 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; 
+    background-color: rgb(236, 235, 235);/* Adjust z-index as needed */
+  }
+
+
+body{
+    background-color: rgb(245, 242, 242);
+}
+#item1, #item2, #item3, #item4
+{
+    color: rgb(19, 11, 86);
+    font-weight: bold;
+    font-size:medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}

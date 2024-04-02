@@ -1,0 +1,62 @@
+#full
+{
+    height: 100vh;
+    width: auto;
+    background-image: url('C:\Users\Asus\Desktop\IctAcademy\projectexample\public\welcomebg.png');
+    position: relative;
+}
+
+#image
+{
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+ 
+  border-radius: 25%;
+  z-index: 1;
+  
+}
+
+img
+{
+    background-color: white;
+    border-radius: 50%;
+}
+h4{
+    color: rgb(255, 255, 255);
+    
+}
+
+
+
+.btn
+{
+    
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      
+
+}
+
+#textin
+{
+    
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: aliceblue;
+      
+}
+
+#button
+{
+    background-color: beige;
+    color: rgb(2, 6, 59);
+}
+
+.navbar-collapse {
+    z-index: 2; }
