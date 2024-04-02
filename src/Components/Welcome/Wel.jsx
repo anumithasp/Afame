@@ -31,17 +31,18 @@ const Wel = () => {
     
           <div className="container-fluid" id="full">
       <div className="d-flex justify-content-center align-items-center" id="image">
-        <img src="Anumitha .png" />
+        <img src="Anumitha.png" />
 
       </div>
 
       <div className='btn container d-flex justify-content-center align-items-center' id="textin">
-        <h4>Hi, I am Anumitha</h4>
+        <h1>Hi, I am Anumitha,</h1>
+        
+        
       </div>
+      
 
-      <div className='btn container d-flex justify-content-center align-items-center'>
-       <Button onClick={() => scrollToSection('#aboutsec')} variant="contained" id="button">Know More</Button>
-      </div>
+      
 
     </div><About /><Projects /><Skills /><Educ /><Contact />
 

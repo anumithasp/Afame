@@ -14,7 +14,7 @@ const Skills = () => {
         <div className="container d-flex justify-content-center align-items-center" id="skill">
         <div className="row ">
         <h3 className='text-center mb-3'>My Skills</h3>
-          <div  className="col col-4 col-sm-12 col-md-4 col-lg-4 col-xl-4  p-3" style={{color: 'rgb(2, 6, 59)'}} id="colm1">
+          <div  className="col col-4 col-sm-12 col-md-4 col-lg-4 col-xl-4 pt-3 " style={{color: 'rgb(2, 6, 59)'}} id="colm1">
 
             <div className='text-center'>
             <h5 >Frontend </h5><br/>
@@ -59,14 +59,14 @@ const Skills = () => {
 
           </div>
 
-          <div className="col col-4 col-sm-12 col-md-4 col-lg-4 col-xl-4  p-3" id="colm3">
+          <div className="col col-4 col-sm-12 col-md-4 col-lg-4 col-xl-4  pt-3" id="colm3">
 
             <div className='text-center'>
             <h5 >Tools </h5><br/>
             </div>
               <div><ArrowRightOutlinedIcon />VS Code</div>
               
-              <div><ArrowRightOutlinedIcon />IntelliJ IDEA</div>
+              <div><ArrowRightOutlinedIcon />IntelliJ</div>
               
               <div><ArrowRightOutlinedIcon />Git</div>
               

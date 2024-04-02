@@ -18,7 +18,7 @@ const Projects = () => {
             </div>
             
 
-                    <div className=" col col-4  col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4 mt-2" id="colm">
+                    <div className=" col col-12  col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4 mt-2" id="colm">
                         <Card sx={{ maxWidth: 345 }}>
                             <CardActionArea>
                                 <CardMedia
@@ -42,7 +42,7 @@ const Projects = () => {
                     </div>
 
 
-                    <div className="col col-4  col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4 mt-2">
+                    <div className="col col-12  col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4 mt-2">
                         <Card sx={{ maxWidth: 345 }}>
                             <CardActionArea>
                                 <CardMedia
@@ -65,7 +65,7 @@ const Projects = () => {
                     </div>
 
 
-                    <div className="col col-4  col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4 mt-2">
+                    <div className="col col-12  col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4 mt-2">
                         <Card sx={{ maxWidth: 345 }}>
                             <CardActionArea>
                                 <CardMedia

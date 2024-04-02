@@ -1,7 +1,7 @@
 #full
 {
     height: 100vh;
-    width: auto;
+    width:auto;
     background-image: url('C:\Users\Asus\Desktop\IctAcademy\projectexample\public\welcomebg.png');
     position: relative;
 }
@@ -23,27 +23,26 @@ img
     background-color: white;
     border-radius: 50%;
 }
-h4{
+h1{
     color: rgb(255, 255, 255);
+    transition: color 0.3s, box-shadow 0.3s; /* Smooth transition */
+    box-shadow: none;
+    
     
 }
 
+h1:hover {
+    color: rgb(0, 0, 0); /* Color on hover */
+    box-shadow: 0 4px 8px rgba(120, 120, 120, 0.2); /* Add shadow on hover */
+  }
 
 
-.btn
-{
-    
-        position: absolute;
-        top: 65%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-      
 
-}
 
 #textin
 {
     
+
         position: absolute;
         top: 60%;
         left: 50%;
@@ -60,3 +59,6 @@ h4{
 
 .navbar-collapse {
     z-index: 2; }
+
+
+   
